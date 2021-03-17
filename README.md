@@ -21,5 +21,6 @@ around their extent is known as object localization. Object recognition combines
 - conda install imgaug
 
 # pretrained weights
-- shaft.h5
+- shafts.h5
+- shafts.h5full
 
