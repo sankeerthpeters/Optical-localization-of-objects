@@ -20,5 +20,6 @@ around their extent is known as object localization. Object recognition combines
 - pip install opencv-python
 - conda install imgaug
 
-
+# pretrained weights
+- shaft.h5
 
